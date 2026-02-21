@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1267/1267935.png" width="80" alt="LinkScanner Logo">
+  <img src="https://github.com/aozdev/LinkScanner/blob/main/website.png?raw=true" width="80" alt="LinkScanner">
 </p>
 
 <h1 align="center">LinkScanner</h1>
@@ -196,9 +196,7 @@ LinkScanner evaluates URLs on a **0–20 point scale**:
 
 ## 🖼️ Screenshots
 
-> Add your screenshots here after deployment.
->
-> Recommended: Dark theme overview, scan results, SSL tab, DNS tab, history drawer.
+<img src="https://github.com/aozdev/LinkScanner/blob/main/website.png?raw=true" width="80" alt="LinkScanner Logo">
 
 ---
 
