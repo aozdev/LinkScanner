@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aozdev/LinkScanner/blob/main/website.png?raw=true" width="80" alt="LinkScanner">
+  <img src="https://github.com/aozdev/LinkScanner/blob/main/website.png?raw=true" alt="LinkScanner">
 </p>
 
 <h1 align="center">LinkScanner</h1>
